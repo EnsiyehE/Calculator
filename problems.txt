@@ -1,0 +1,64 @@
+Calculator , Starting To write the Map for myself
+
+think about to make a specific svg inside your display (done)
+
+why when i am translating the margin top is just changing in my eyes not bottem
+
+or right???
+
+
+next step is that i open the window that people can see the result of calculation
+
+first build the window 
+
+
+now bottoms :
+
+how to show them?? need an array from zero to 9
+
+i can make gs and add to them this array and place them in the right place.
+
+the x of each bottoms from 1 to 9 ...(how to place them??) donee
+
+
+
+
+
+
+
+finish the interface:
+
+think about having an array with objects(inside each one one array)
+
+or an array of arrays to put each bottem as a rectangle
+
+
+
+Strat to apply the operations :
+
+ first apply if every one would click on something , the result would be shown in the console(done)
+
+what should i do now ??????? function for different operationsssssss 
+
+e.target i couldnt append my data ???? why??????
+
+
+
+
+I have to apply Zero and also C (TO MAKE THE RESULT zERO)
+
+APPLY THE DECIMAL ALSO..... (.)
+
+AND THEN SHOWS TO THE BIG RECTANGLE 
+
+
+THERE IS A PROBLEM WHY AFTER RESULT AND PRESSING = ,, I CAN PRESS AGAIN?? I CAN NOT LOCK THE SECOND NUMBER ??? 
+
+
+
+How to put (.) between the numbers for the first number and for the second number ??????????
+
+how to apply the decimal??? 
+
+
+
